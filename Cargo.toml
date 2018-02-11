@@ -1,0 +1,9 @@
+[package]
+name = "shortpath"
+version = "0.1.0"
+authors = ["Hueho <duodigdaniel@gmail.com>"]
+
+[profile.release]
+lto = true
+
+[dependencies]
